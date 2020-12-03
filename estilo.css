@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+
+<html lang="es-ES">
+	<head>
+		
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+		
+		<title>Página principal</title>
+<style>
+
+			*{padding: 0;
+			 margin: 0; 
+			 }
+
+			 div{
+				padding: 15px
+			 }
+
+			 h1{
+			 	text-align: center;
+			 }	
+
+			 p{
+			 	text-align: center
+			 }
+
+			 a{background: white;
+			 	padding: 5px
+			 }
+
+	
+             .parteMenu{
+             	background: #367342; 
+             }
+
+
+             .parteContenido{
+             	background: #1f1f3e; 
+             }
+
+            	 .contenido1 {
+             		background: white;
+             		margin: 15px
+             		}
+
+            	 .contenido2 {
+             		background: white;
+             		margin: 15px
+             		}
+
+             	 .contenido3 {
+             		background: white;
+             		margin: 15px
+             		}
+
+
+
+            	 .partePie{
+             	background: #85afc0;
+             }
+  		.imagenNoticia {
+             	width: 600px;
+             }
+
+             	.centrarImagen {
+             	text-align: center;
+             }
+	</style>
+
+
+
+	</head>
